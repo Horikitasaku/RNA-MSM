@@ -232,4 +232,5 @@ dependencies:
     - transformers==4.17.0
     - werkzeug==2.0.3
     - yarl==1.7.2
+    - tape-proteins
 prefix: /home/kk/anaconda3/envs/jjh_proteins
