@@ -8,3 +8,4 @@
 from .data import Alphabet, BatchConverter, FastaBatchedDataset  # noqa
 from .model import ProteinBertModel, MSATransformer  # noqa
 # from . import pretrained  # noqa
+__version__ = "0.1.0"
